@@ -19,7 +19,7 @@ $result = "Hello World, this is " . $fullname .
 " using " . $lang . " for stage 2 task. " . $email;
 
 
-echo $result
+echo $result;
 
 
 
