@@ -14,9 +14,9 @@ $email= "martinjaiyeola40@gmail.com";
 
 $result = "Hello World, this is " . $fullname .
 
-" with HNGi7 ID " . $hngID . 
+          " with HNGi7 ID " . $hngID . 
 
-" using " . $lang . " for stage 2 task. " . $email;
+          " using " . $lang . " for stage 2 task. " . $email;
 
 
 echo $result;
